@@ -19,7 +19,6 @@ analysis.
 
 ## Repository Structure
 - `notebooks/` — Research analysis notebooks
-- `src/` — Supporting Python code
 - `environment.yml` — Computational environment
 
 ## Data
