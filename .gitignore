@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/README.md
+!/environment.yml
+!/notebooks/
+!/notebooks/*.ipynb
+!/src/
+!/src/**/
+!/src/**/*.py
